@@ -3,7 +3,7 @@
 
 **An academic machine learning project to predict student final exam success using classification algorithms.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/mohammedAljadd/Students-performance-and-difficulties-prediction)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/Deepakkhatik2002/Students-Performance-Prediction)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-1.5-green)
@@ -11,12 +11,7 @@
 
 ---
 
-<div style="text-align:center;">
-    <a href="http://www.inpt.ac.ma/" target="_blank">
-        <img src="http://www.inpt.ac.ma/sites/default/files/logo.png" width="150"/>
-    </a>
-    <p><strong>INPT – Rabat, Morocco</strong></p>
-</div>
+
 
 ---
 
@@ -76,7 +71,7 @@ df[col] = (df[col] - df[col].mean()) / df[col].max()
 
 **An academic machine learning project to predict student final exam success using classification algorithms.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/mohammedAljadd/Students-performance-and-difficulties-prediction)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-1.5-green)
@@ -84,22 +79,12 @@ df[col] = (df[col] - df[col].mean()) / df[col].max()
 
 ---
 
-<div style="text-align:center;">
-    <a href="http://www.inpt.ac.ma/" target="_blank">
-        <img src="http://www.inpt.ac.ma/sites/default/files/logo.png" width="150"/>
-    </a>
-    <p><strong>INPT – Rabat, Morocco</strong></p>
-</div>
+
 
 ---
 
 ## Contributors
-- **[AL JADD Mohammed](https://github.com/mohammedAljadd)**  
-- **[BOUJIDA Hafssa](https://github.com/hafssaboujida)**  
-- **[EL NABAOUI Nouhaila](https://github.com/Elnabaouinouhaila)**  
-
-**Advisor:**  
-- [Prof. Amina Radgui](https://www.linkedin.com/in/amina-radgui-88017424/)
+- **[DEEPAK](https://github.com/Deepakkhatik2002)**  
 
 ---
 
@@ -228,7 +213,7 @@ df[col] = (df[col] - df[col].mean()) / df[col].max()
 
 ```bash
 # Clone the repo
-git clone https://github.com/mohammedAljadd/Students-performance-and-difficulties-prediction.git
+git clone -
 cd Students-performance-and-difficulties-prediction
 
 # Install dependencies
